@@ -20,7 +20,7 @@ github_username:    joc2422
 
 
 # Build settings
-highlighter: rouge
+highlighter: Rouge 
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
