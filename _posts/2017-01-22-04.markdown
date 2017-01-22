@@ -1,0 +1,29 @@
+---
+layout:     post
+title:      "文章的更新流程"
+subtitle:   "具体来还是有一堆问题"
+date:       2017-01-22 19:00:00
+author:     "Joc"
+header-img: "img/home-bg-o.jpg"
+tags:
+    - 知乎
+    - 建博
+   
+    
+---
+
+<div>
+<br>
+<br>
+1. Mac 上用 TextNut 编辑 MarkDown 文件。
+* 复制模板
+* 修改标题、小标题
+* 完成正文
+* 另存为到 GitHub 文件夹
+* GitHub Mac版 App 中 Commit to master 、Sync
+* 刷新网页确认更新了。
+* 修改的话可以直接在 GitHub 网页中修改。
+<br>问题， MarkDown 语法格式好像不起作用。
+<br>
+
+<div>
