@@ -19,80 +19,10 @@ tags:
 通过一篇文章，大概摸清楚一些套路了。
 <br>
 <br>
-<br>1. 各种套路
-<br>
 
-
-<br>2. 具体的方法
-<br>换行
-```
-<br>内容
-```
-
-```html
-<p> p is paragraph! </p>
-
-<style>
-p { color: red;}
-</style>
-```
-
-<br>小框框
-
-```html
-三个点出小框框
-三个点结尾。
-(```
-内容
-```)
-```
-
-
-<br>列原点
-```html
-<ul>
-    <li>
-        项目1
-    </li>
-    <li>
-        项目2
-    </li>
-    <li>
-        。。。
-    </li> 
-</ul>
-```
-
-<br><b>加粗字体</b>
-```html
-<b>内容</b>
-```
-
-
-<br>引用条
-```html
-> 内容
-```
-<br>
-> 引用例子。
-
-
-
-<br>@别人
-```html
-<a data-hash="2079c4431af276b793e530979e424f36" href="//www.zhihu.com/people/2079c4431af276b793e530979e424f36" class="member_mention" data-editable="true" data-title="@JocTNT" data-tip="p$b$cfdec6226ece879d2571fbc274372e9f">@JocTNT</a>
-
-改一下数字和人名就好。
-```
-
-<br>链接网址
-```html
-<a href="//link.zhihu.com/?target=http%3A//www.w3school.com.cn/" class=" wrap external" target="_blank" rel="nofollow noreferrer">w3school 在线教程<i class="icon-external"></i></a> 
-
-改下网址就好，class= 什么的可以不管吧。
-```
 
 <br>2017.01.22
 <br>以上。
+
 <div>
 
