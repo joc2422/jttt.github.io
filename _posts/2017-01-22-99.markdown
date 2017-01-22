@@ -1,0 +1,131 @@
+---
+layout:     post
+title:      "ceshi"
+subtitle:   "youlai"
+date:       2017-01-22 23:00:00
+author:     "Joc"
+header-img: "img/home-bg-o.jpg"
+tags:
+    - 知乎
+    - 建博
+---
+
+> 引用部分[一个连接地址](https://www.baidu.com)。
+
+
+普通一段。
+<br>
+<br>空行。接下说是@别人<a data-hash="2079c4431af276b793e530979e424f36" href="//www.zhihu.com/people/2079c4431af276b793e530979e424f36" class="member_mention" data-editable="true" data-title="@JocTNT" data-tip="p$b$cfdec6226ece879d2571fbc274372e9f">@JocTNT</a>改一下数字和人名就好。
+<br>
+<br>接下来就说说自己的学习建议吧，一个小教程，也是自己走过的流程，仅供参考哈
+<br>下面有一条横线。
+<br>------------
+<br>
+<br><b>加粗，下行例子</b>
+<br>你可能会被这一大堆名词吓到。确实，想要搞定他们并不容易。但是，你要相信只要你肯花功夫它们也没有那么难，而更重要的是，如果你能拿下他们，你所收获的并不只是这些而已，而是真正跨过了一道大坎 —— <b>你的世界将因此打开， 你看待世界的方式将因此改变</b>
+<br>
+
+```
+三个点出小框框
+三个点结尾。
+下面空一行。
+
+```
+
+<br>推荐几个资源（下面是点点。。）
+
+
+```html
+<p> 这里的东西可以随便来？ </p>
+
+<style>
+p { color: red;}
+</style>
+```
+
+<br>推荐几个资源（下面是点点。。）
+<ul>
+    <li>原点1，接下来是链接。<a href="//link.zhihu.com/?target=http%3A//www.w3school.com.cn/" class=" wrap external" target="_blank" rel="nofollow noreferrer">w3school 在线教程<i class="icon-external"></i></a> (中文，一个很 Low 但是又很好的入门学习网站）
+        <br>
+    </li>
+    <li><a href="//link.zhihu.com/?target=http%3A//www.codecademy.com/" class=" wrap external" target="_blank" rel="nofollow noreferrer">Learn to code<i class="icon-external"></i></a> (Codecademy，如果你英文 OK，<b>强烈建议</b>你使用它进行交互式的学习！里面从 HTML/CSS 到搭建网站的课程都有，免费，生动直观）
+        <br>
+    </li>
+</ul>
+
+下面不用管。
+---
+
+<br><b>这个阶段的练习主要是“临摹”：用代码画出你想画的网站，越多越好。</b>
+<br>
+<br>对于书，我<b>非常不推荐</b>上来就去看各种厚厚的入门/指南书，没必要！这一个阶段应该快速上手，培养兴趣，培养成就感。先做出可以看的东西再说，掌握常用的 HTML/CSS 就够用了
+<br>
+<br>如果完成的好，这个阶段过后你大概就可以写出一些简单又好看的“静态网页”了，比如这个作品集/简历：<a href="//link.zhihu.com/?target=http%3A//huangxuan.me/portfolio/" class=" wrap external" target="_blank" rel="nofollow noreferrer">Portfolio - 黄玄的博客<i class="icon-external"></i></a> （好久没更新了…丢人现眼）
+<br>
+<br>
+<br>
+<br><b>入门篇（JavaScript/jQuery）</b>
+<br>
+<br>想要在网页上实现一些交互效果，比如轮播图、点击按钮后播放动画？那你就必须要开始学习 JavaScript 了！JavaScript 是一门完整、强大并且非常热门的编程语言，你在浏览器里看到的所有交互或者高级功能都是由它在背后支撑的！
+<br>
+<br>举个小栗子：
+<br>
+
+```js
+alert("Hello World!")
+```
+
+就这一行，就可以在浏览器里弹出 Hello World 啦！
+<br>
+<br>在了解一些基础的 JavaScript 概念（变量、函数、基本类型）后，我们可以直接去学习 jQuery，你不用知道它具体是什么（它是一个 JavaScript 代码库），你只要知道它可以显著地降低你编写交互的难度就好了：
+<br>
+
+```js
+$('.className').click(function(){
+  alert("Hello jQuery")
+})
+```
+
+通过 jQuery，我们可以继续使用在 CSS 中学到的“选择器”
+<br>
+<br>对于没有编程基础的人来说，想要完全掌握它们两并不容易。作为设计师，很多时候我们可以先不必深究它们的原理，而是尝试直接应用它！这样成就感会来得很快，并且你可以通过实际应用更加理解 JavaScript 是用来做什么的。
+<br>
+<br>我仍然推荐你使用 <a href="http://www.w3school.com.cn/" target="_blank" rel="nofollow noreferrer">w3school 在线教程</a> 与 <a href="//www.codecademy.com/" target="_blank" >http://www.codecademy.com/</a> 进行学习。另外，你可以看一看诸如《<a href="//link.zhihu.com/?target=http%3A//book.douban.com/subject/10792216/" class=" wrap external" target="_blank" rel="nofollow noreferrer">锋利的jQuery (豆瓣)<i class="icon-external"></i></a>》 这一类非常实用的书籍，可以让你很快上手做出一些简单的效果来！
+<br>
+<br>如果学习得顺利，你还可以尝试使用各种丰富的 jQuery 插件，你会发现写出支持用户交互的网站也没有那么困难～很多看上去很复杂的功能（比如轮播图、灯箱、下拉菜单），搜一搜然后看看文档（教程）、改改示例代码就好了。
+<br>
+<br>比如说，配合 <a href="//link.zhihu.com/?target=https%3A//github.com/Huxpro/jquery.HSlider" class=" wrap external" target="_blank" rel="nofollow noreferrer">Huxpro/jquery.HSlider · GitHub<i class="icon-external"></i></a> 这样的轮播图插件，你可以很轻松的写出 <a href="//link.zhihu.com/?target=http%3A//huangxuan.me/jquery.HSlider/" class=" wrap external" target="_blank" rel="nofollow noreferrer">HSlider | Demo<i class="icon-external"></i></a> 这样的网页相册或者 <a href="//link.zhihu.com/?target=http%3A//huangxuan.me/jquery.HSlider/demo-weather-app/" class=" wrap external" target="_blank" rel="nofollow noreferrer">HSlider | Weather<i class="icon-external"></i></a> 这样的手机端 App 原型～
+<br>
+<br>最后，我想推荐下 <a href="//link.zhihu.com/?target=http%3A//getbootstrap.com/" class=" wrap external" target="_blank" rel="nofollow noreferrer">Bootstrap · The world's most popular mobile-first and respons<i class="icon-external"></i></a> ，这是世界上最知名的前端 UI 框架之一，提供了大量 CSS 样式与 jQuery 插件。它非常容易学习并且中英文教程都非常健全，你并不需要理解它背后的工作原理就能很好的使用它，让你快速达到“可以建站的水平”。有余力的话，你不但可以学习如何使用它，还可以学习它背后的设计思想。
+<br>
+<br>
+<br>
+<br><b>转职方向一：前端重构 （Web Rebuild）</b>
+<br>
+<br>业内通常把专精 HTML/CSS 的前端从业人员称为重构，而对于注重视觉效果的设计师来说，在掌握基本的 HTML/CSS 后，就可以朝着这个方向发展了。
+<br>
+<br><b>到了这个阶段，你不但要知道怎么写页面，还要知道它们都是为什么，并且知道怎么做更好。这对你理解 Web 世界非常有帮助，并且能帮助你做出更“系统化”的设计。</b>
+<br>
+<br>CSS 的学问很多，你需要开始理解文档流、浮动流等各种定位的方式与原理，理解 CSS 的继承复用思想、理解浏览器的差异、兼容、优雅降级……这里强烈推荐一本书：《<a href="//link.zhihu.com/?target=http%3A//book.douban.com/subject/4736167/" class=" wrap external" target="_blank" rel="nofollow noreferrer">精通CSS（第2版） (豆瓣)<i class="icon-external"></i></a>》，虽然前端技术突飞猛进，但这本书的思想永远不会过时。
+<br>
+<br>HTML 方面，要开始注重语义化、可访问性与结构的合理，你要开始学习“结构与样式的分离”，这里有一本神书将这种分离做到了极致：《<a href="//link.zhihu.com/?target=http%3A//book.douban.com/subject/2052176/" class=" wrap external" target="_blank" rel="nofollow noreferrer">CSS禅意花园 (豆瓣)<i class="icon-external"></i></a>》
+<br>
+<br>另外，各种炫酷屌的 CSS 3 属性你一定会喜欢：你可以用媒体查询做响应式网页设计，你可以用 transiton 和 animation 做补间动画与关键帧动画，用 transform 做缩放、旋转、3D变换，还有圆角、渐变、阴影、弹性盒！样样都是设计师的神器！
+<br>
+<br>如果你还掌握了 <b>入门篇（JavaScript/jQuery）</b>的知识，那么<b>恭喜你！你已经可以做出很多有趣的网页了！</b>很多 minisite 或者微信上的“H5” 小广告，这个程度的你已经可以轻松完成了！
+<br>
+<br>配合上你的设计功力，你可以开始尝试创作一些好玩的东西，比如这种富含交互和动画的网站 <a href="//link.zhihu.com/?target=http%3A//huangxuan.me/senova/" class=" wrap external" target="_blank" rel="nofollow noreferrer">绅宝 SENOVA<i class="icon-external"></i></a> ，它仍然是基于 <a href="//link.zhihu.com/?target=https%3A//github.com/Huxpro/jquery.HSlider" class=" wrap external" target="_blank" rel="nofollow noreferrer">Huxpro/jquery.HSlider · GitHub<i class="icon-external"></i></a> 实现的！或者给自己做个小小的个人网站试试
+<br>
+<br>
+<br>
+<br><b>转职方向二：前端工程师（Front-end Engineer）</b>
+<br>
+<br>如果你觉得上述的这些都还满足不了你，你渴望做出更多了不起的交互，甚至你已经喜欢上了编程，想要转行做工程师，或者成为一名全栈设计师，那么你可以朝着这个方向继续发展！
+<br>
+<br>这个阶段的最大难度，是你必须<b>学会像一名软件工程师一样思考</b>。你需要踏踏实实学习编程语言，深入理解作用域、对象、类、封装、继承、面向对象编程、事件侦听、事件冒泡等一大堆编程概念，你还需要了解浏览器，学习 DOM、BOM、CSSOM 的 API，你甚至还需要学习一些网络原理，包括域名、URL、DNS、HTTP 请求都是什么…
+<br>
+<br>你可能会被这一大堆名词吓到。确实，想要搞定他们并不容易。但是，你要相信只要你肯花功夫它们也没有那么难，而更重要的是，如果你能拿下他们，你所收获的并不只是这些而已，而是真正跨过了一道大坎 —— <b>你的世界将因此打开， 你看待世界的方式将因此改变</b>
+<br>
+<br>对于这个阶段，你可以继续在 <a href="//www.codecademy.com/" target="_blank" >http://www.codecademy.com/</a> 上学习，但是 w3school 已经不够用了，遇到不会的语法，我推荐你查阅 <a href="//link.zhihu.com/?target=https%3A//developer.mozilla.org/zh-CN/" class=" wrap external" target="_blank" rel="nofollow noreferrer">Mozilla 开发者网络<i class="icon-external"></i></a>，这是少数中英文都有的非常专业且友好的网站。
+<br>
+
