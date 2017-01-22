@@ -13,7 +13,7 @@ tags:
 ---
 
 <div>
-<br># test
+<br> # 我去，原来是因为 # 中英文弄错了。
 <br>
 <br>1. Mac 上用 TextNut 编辑 MarkDown 文件。
 <br>* 复制模板
