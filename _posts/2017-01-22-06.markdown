@@ -54,7 +54,7 @@ tags:
 
 <br>小框框
 
-```
+```js
 三个点出小框框
 三个点结尾。
 (```
@@ -64,7 +64,7 @@ tags:
 
 
 <br>列原点
-```
+```js
 <ul>
     <li>
         项目1
@@ -79,13 +79,13 @@ tags:
 ```
 
 <br><b>加粗字体</b>
-```
+```js
 <b>内容</b>
 ```
 
 
 <br>引用条
-```
+```js
 > 内容
 ```
 <br>
@@ -94,15 +94,14 @@ tags:
 
 
 <br>@别人
-```
+```js
 <a data-hash="2079c4431af276b793e530979e424f36" href="//www.zhihu.com/people/2079c4431af276b793e530979e424f36" class="member_mention" data-editable="true" data-title="@JocTNT" data-tip="p$b$cfdec6226ece879d2571fbc274372e9f">@JocTNT</a>
 
 改一下数字和人名就好。
-
 ```
 
 <br>链接网址
-```
+```js
 <a href="//link.zhihu.com/?target=http%3A//www.w3school.com.cn/" class=" wrap external" target="_blank" rel="nofollow noreferrer">w3school 在线教程<i class="icon-external"></i></a> 
 
 改下网址就好，class= 什么的可以不管吧。
