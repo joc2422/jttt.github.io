@@ -22,24 +22,31 @@ tags:
 <ul>
     <li>
         换行
+        <br>
     </li>
     <li>
         小框框
+        <br>
     </li>
     <li>
         列原点
+        <br>
     </li>
     <li>
         加粗字体
+        <br>
     </li>
     <li>
         引用条
+        <br>
     </li>
     <li>
         @别人
+        <br>
     </li>
     <li>
         链接网址
+        <br>
     </li>
 </ul>
 
