@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "推荐一个找歌词文件 .lrc 的网站"
+subtitle:   "之前的 WordPress 不能用了，又要重新转战这边"
+date:       2017-01-22 17:00:00
+author:     "Joc"
+header-img: "img/home-bg-o.jpg"
+tags:
+    - 知乎
+    - 建博
+   
+    
+---
+
+<div>
+### [www.5ilrc.com]（http://www.5ilrc.com/）
+<br>之前看推荐下载了一个 Mac 上显示歌词的 App，效果还行，先留着用几天。
+<br>但歌词有时会不准，这是需要修改 .lrc 文件。
+<br>#### 方便 很多歌的歌词都有
+<br>####简洁 广告少，直接可下载
+<br>以上
+
+<div>
