@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "kindle 相关问题1"
+title:      "kindle 相关问题2"
 subtitle:   "这是个需要折腾的世界"
 date:       2017-01-28 22:00:00
 author:     "Joc"
@@ -17,8 +17,8 @@ tags:
 <br> 
 
 > 1.锁屏壁纸替换
-2.kindle 书源
-3.文件导入
+> 2.kindle 书源
+> 3.文件导入
 
 
 <br> ##### 1.锁屏壁纸替换
