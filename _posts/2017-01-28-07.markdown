@@ -1,19 +1,18 @@
 ---
 layout:     post
-title:      "kindle 相关问题"
+title:      "kindle 相关问题1"
 subtitle:   "这是个需要折腾的世界"
 date:       2017-01-28 22:00:00
 author:     "Joc"
 header-img: "img/home-bg-o.jpg"
+catalog:    true
 tags:
     - 建博
     - kindle
 ---
 
 <br>之前买了一个 kindle ，一直在角落里默默吃灰。
-
 <br>最近又拿她来看小说，效果还不错。
-
 <br>但有几个问题。
 
 <br> 
