@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "今天的第四次测试"
+subtitle:   "今天突然又感兴趣了。"
+date:       2018-04-18 19:30:00
+author:     "Joc"
+header-img: "img/home-bg-o.jpg"
+tags:
+
+    - 建博
+    - 瞎折腾
+    
+---
+
+
+
+测试出来了，下面乱码的原因是其他地方导致的。
+
+可惜快要回家了。
+
+下次再说。
