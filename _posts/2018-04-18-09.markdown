@@ -1,0 +1,53 @@
+---
+layout:     post
+title:      "2018版的文章的更新流程"
+subtitle:   "修改了之前的版本，具体来还是有一堆问题"
+date:       2018-04-18 19:00:00
+author:     "Joc"
+header-img: "img/home-bg-o.jpg"
+tags:
+    - 建博
+   
+    
+---
+
+<div>
+<br>
+<br>1. Mac 上用 Typora 编辑 MarkDown 文件。
+<br>* 复制模板
+<br>* 修改标题、小标题
+<br>* 完成正文
+<br>* 另存为到 GitHub 文件夹
+<br>2. GitHub Mac版 App 中 Commit to master 、Sync
+<br>3. 刷新网页确认更新。
+<br>
+<br>// 修改的话可以直接在 GitHub 网页中修改。
+<br>
+<br>问题， MarkDown 语法格式好像不起作用。
+<br>
+
+### Catalog
+
+- Document Times
+    - Frameworks
+    - Style Guide
+        - **OOCSS**
+        - **SMACSS**
+    - **Pre-processer**
+    - **PostCSS**
+- Application Times
+    - **Shadow DOM**
+    - **CSS "4"**
+    - Naming Convention
+        - **BEM**
+        - **SUIT**
+    - **Atomic CSS**
+    - **CSS in JS**
+    - **CSS Modules**  
+        - Interoperable CSS
+    - PostCSS, again
+- My Opinionated Proposal
+    - **POCss**
+
+## POCss: Page Override Components CSS
+<div>
