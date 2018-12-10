@@ -1,25 +1,3 @@
-#Hux Blog
-
-###[View Live Hux Blog &rarr;](http://huxpro.github.io)
-
-![](http://huangxuan.me/img/blog-desktop.jpg)
-
-
-
-## Boilerplate (beta)
-
-Want to clone a boilerplate instead of my buzz blog? Here comes this!  
-
-```
-$ git clone git@github.com:Huxpro/huxblog-boilerplate.git
-```
-
-**[View Boilerplate Here &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
-
-
-## Translation
-
- - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: 感谢 [@BrucZhaoR](https://github.com/BruceZhaoR) 的 [中文翻译 &rarr;](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)
 
 ## Features
 
@@ -284,12 +262,6 @@ Seeing the title text above image is **white**, the image should be **dark** to 
 In technical views, it can be done with CSS. However, the opacity of the black overlay is really hard to assigned, **every image has different brightness so the  degree it should be adjusted is different so it is impossible to hard code it.**
 
 
-#### SEO Title
-
-Before V1.4, site setting `title` is not only used for displayed in Home Page and Navbar, but also used to generate the `<title>` in HTML.
-It's possible that you want the two things different. For me, my site-title is **“Hux Blog”** but I want the title shows in search engine is **“黄玄的博客 | Hux Blog”** which is multi-language.
-
-So, the SEO Title is introduced to solve this problem, you can set `SEOTitle` different from `title`, and it would be only used to generate HTML `<title>` and setting DuoShuo Sharing.
 
 ## Thanks
 
