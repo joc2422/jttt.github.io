@@ -73,13 +73,13 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
+快速链接: [
     {
-        title: "黄玄",
-        href: "http://huangxuan.me/"
-    },{
-        title: "微信登陆",
+       title: "微信登陆",
         href: "https://wx.qq.com/"
+    },{
+         title: "黄玄",
+        href: "http://huangxuan.me/"
     },{
         title: "暂无",
         href: "http://tnt.moe/"
