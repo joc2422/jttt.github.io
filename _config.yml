@@ -73,7 +73,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-快速链接: [
+Friends: [
     {
        title: "微信登陆",
         href: "https://wx.qq.com/"
